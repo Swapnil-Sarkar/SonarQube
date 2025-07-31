@@ -1,1 +1,1 @@
-# Sonarcube
+# SonarQube
